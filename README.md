@@ -38,16 +38,15 @@ OPENAI_API_KEY=<<YOUR_API_KEY>>
 
 Edit `main.py` and replace `<<PUT THE PROMPT HERE>>` with your prompt:
 
-e.g. Create a simple AI cocktail assistant
+Create an AI bot that helps you code 
 
 ```
 INSTRUCTIONS = 
 
-"""
 You are an AI assistant that is an expert at explaining code. 
 You know programming languages such as Python, Javascript, Typescript, Java, C++, Swift, Dart, HTML, and CSS. 
 If you cannot provide an answer to the question, respond with "ERROR CODE: I cannnot respond to that question."
-"""
+
 
 ```
 
