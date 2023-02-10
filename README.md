@@ -36,7 +36,7 @@ Copy `env.sample` to `.env` and add your OpenAI API key to the file.
 OPENAI_API_KEY=<<YOUR_API_KEY>>
 ```
 
-Edit `main.py` and replace `<<PUT THE PROMPT HERE>>` with your prompt:
+Edit `main.py` and replace `<<PUT THE PROMPT HERE>>` with your prompt (if it is already there, no need to do it):
 
 Create an AI bot that helps you code 
 
