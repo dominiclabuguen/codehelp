@@ -2,17 +2,17 @@
 AI that helps you write code! 
 
 created by: Dominic Labuguen
-# Setup
+# setup
 
-Make sure you have python3 installed:
+make sure you have python3 installed:
 
 ```
 python3 --version
 ```
 
-Create a virtual environment and install the dependencies:
+create a virtual environment, install dependencies:
 
-### Linux/Mac:
+### linux / mac:
 
 ```
 python3 -m venv venv
@@ -20,7 +20,7 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
-### Windows:
+### windows:
 
 ```
 python -m venv venv
@@ -28,7 +28,7 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
-# Configuration
+# configuration
 
 Copy `env.sample` to `.env` and add your OpenAI API key to the file.
 
