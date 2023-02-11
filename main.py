@@ -83,7 +83,7 @@ def main():
     while True:
         # ask the user for their question
         new_question = input(
-            Fore.GREEN + Style.BRIGHT + "What can I get you?: " + Style.RESET_ALL
+            Fore.GREEN + Style.BRIGHT + "what do you want to code? : " + Style.RESET_ALL
         )
         # check the question is safe
         errors = get_moderation(new_question)
