@@ -1,6 +1,8 @@
 # codehelp
 AI that helps you write code! 
 
+IMPORTANT: make sure you set up for an OpenAI account and acquire an openAI API key. 
+
 created by: Dominic Labuguen
 # setup
 
