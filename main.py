@@ -91,7 +91,7 @@ def main():
             print(
                 Fore.RED
                 + Style.BRIGHT
-                + "Sorry, you're question didn't pass the moderation check:"
+                + "ERROR: your question didn't pass the moderation check:"
             )
             for error in errors:
                 print(error)

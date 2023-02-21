@@ -52,7 +52,7 @@ If you cannot provide an answer to the question, respond with "ERROR CODE: I can
 
 ```
 
-# Running
+# Run
 
 To run just do the following:
 
